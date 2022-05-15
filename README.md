@@ -25,7 +25,7 @@
 
 #### Connect me
 
-> Visit my profile, you'll find my CV there. 
+> Visit my [profile](https://github.com/nitinkumar30), you'll find my CV there OR you may visit my [portfolio](https://portfolio-nitin.netlify.app). 
 
 __Love Python like I do ?__
 
